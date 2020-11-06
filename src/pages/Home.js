@@ -6,7 +6,7 @@ const Home = () => {
     <IonPage>
       <IonHeader>
         <IonHeader>
-          <IonTitle>Hunt</IonTitle>
+          <IonTitle>My Hunt</IonTitle>
         </IonHeader>
       </IonHeader>
     </IonPage>
